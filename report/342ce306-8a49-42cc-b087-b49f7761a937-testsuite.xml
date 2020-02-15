@@ -1,0 +1,68 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1581729107984" stop="1581729108899">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1581729107984" status="passed" stop="1581729108161">
+      <name>test01_login.TestLogin.test_login_0_13800000002</name>
+      <attachments>
+        <attachment source="c66854f9-a98e-4ff7-aabf-56beb9d6913f-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5512-MainThread"/>
+        <label name="host" value="SC-201812172300"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581729108179" status="passed" stop="1581729108403">
+      <name>test02_employees.TestEmployees.test01_post_0_qqdgg</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5512-MainThread"/>
+        <label name="host" value="SC-201812172300"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581729108421" status="passed" stop="1581729108578">
+      <name>test02_employees.TestEmployees.test02_put</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5512-MainThread"/>
+        <label name="host" value="SC-201812172300"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581729108597" status="passed" stop="1581729108766">
+      <name>test02_employees.TestEmployees.test03_get</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5512-MainThread"/>
+        <label name="host" value="SC-201812172300"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581729108785" status="passed" stop="1581729108899">
+      <name>test02_employees.TestEmployees.test04_post</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5512-MainThread"/>
+        <label name="host" value="SC-201812172300"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
